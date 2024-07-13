@@ -5,27 +5,27 @@ import HTMLFlipBook from "react-pageflip";
 const romanticQuotes = [
   {
     text: "Halooo Cantik ❤️",
-    img: "assets/img/img1.png",
+    img: "assets/img/img1.jpg",
   },
   {
     text: "Aku cuma mau bilang kalo kamu itu lucu, dan aku suka itu",
-    img: "assets/img/img2.png",
+    img: "assets/img/img2.jpg",
   },
   {
     text: "Kamu tahu gak, setiap kali kamu tersenyum, dunia seakan berhenti sejenak untuk menikmati keindahannya.",
-    img: "assets/img/img3.png",
+    img: "assets/img/img3.jpg",
   },
   {
     text: "Ada banyak hal yang bisa membuatku bahagia, tapi hanya satu yang benar-benar membuatku merasa sempurna, yaitu kamu.",
-    img: "assets/img/img6.png",
+    img: "assets/img/img6.jpg",
   },
   {
     text: "Aku suka bukan karena siapa dirimu, tapi karena siapa aku saat bersamamu",
-    img: "assets/img/img4.png",
+    img: "assets/img/img4.jpg",
   },
   {
     text: "Jangan pergi ya cantik 😊",
-    img: "assets/img/img5.png",
+    img: "assets/img/img5.jpg",
   },
 
   // Tambahkan lebih banyak kata-kata romantis dan foto
